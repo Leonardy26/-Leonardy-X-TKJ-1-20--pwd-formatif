@@ -92,3 +92,8 @@ footer a {
     color: #2563eb;
     text-decoration: none;
 }
+
+/* Penyempurnaan transisi hero */
+.hero {
+    transition: all 0.3s ease;
+}
