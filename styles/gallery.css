@@ -59,3 +59,8 @@ footer a {
     color: #2563eb;
     text-decoration: none;
 }
+
+/* Penyempurnaan animasi galeri */
+.project-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
