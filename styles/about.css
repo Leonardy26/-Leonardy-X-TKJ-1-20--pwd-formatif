@@ -78,3 +78,7 @@ footer a {
         text-align: center;
     }
 }
+/* Penyempurnaan tampilan halaman About */
+.about-section {
+    transition: all 0.3s ease;
+}
