@@ -87,3 +87,8 @@ footer a {
     color: white;
     text-decoration: none;
 }
+
+/* Penyempurnaan interaksi tombol */
+button {
+    transition: all 0.3s ease;
+}
