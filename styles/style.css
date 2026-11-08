@@ -1,0 +1,45 @@
+
+body {
+    margin: 0;
+    background-color: #eef2f7;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.header {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 35px;
+}
+
+.container {
+    max-width: 850px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+.content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+h2 {
+    color: #164a8a;
+}
+
+li {
+    padding: 8px;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #ddd;
+}
+
+.footer a {
+    color: navy;
+    text-decoration: none;
+}
